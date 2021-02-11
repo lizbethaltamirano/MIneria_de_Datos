@@ -1,4 +1,4 @@
 # Mineria_de_Datos
 
 ##ETAPA1
-
+[MAPA MENTAL](https://github.com/lizbethaltamirano/MIneria_de_Datos/blob/Mineria_de_Datos/MapaMental_1_1732753.pdf)
