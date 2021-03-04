@@ -9,3 +9,6 @@
 
 [EJERCICIOS BASICOS DE PYTHON](https://github.com/lizbethaltamirano/MIneria_de_Datos/blob/Mineria_de_Datos/Ejercicios%20Basicos%20Pyhton.ipynb)
 
+[PRACTICA DE LIMPIEZA DE DATOS](https://github.com/lizbethaltamirano/MIneria_de_Datos/blob/Mineria_de_Datos/Ej_Limpieza_2.ipynb)
+
+[AVANCE 1 PIA](https://github.com/lizbethaltamirano/MIneria_de_Datos/blob/Mineria_de_Datos/Avance1_PIA_2%20(2).ipynb)
