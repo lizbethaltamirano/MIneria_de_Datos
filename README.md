@@ -21,5 +21,7 @@
 
 [MAPA MENTAL 2](https://github.com/lizbethaltamirano/MIneria_de_Datos/blob/Mineria_de_Datos/T%C3%A9cnicas%20de%20Miner%C3%ADa%20de%20Datos.pdf)
 
+[EJ. VISUALIZACIÓN](https://github.com/robertoduenas/Mineria_de_Datos002/blob/main/Visualizacion_2.ipynb)
+
 
 
