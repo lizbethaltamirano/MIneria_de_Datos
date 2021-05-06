@@ -28,3 +28,9 @@
 [AVANCE 2 PIA ACTUALIZADO](https://github.com/lizbethaltamirano/MIneria_de_Datos/blob/Mineria_de_Datos/AvancePIA_II_002_2.ipynb)
 
 
+## ETAPA 3
+
+[PIA](https://github.com/lizbethaltamirano/MIneria_de_Datos/blob/Mineria_de_Datos/pia%20(2).ipynb)
+
+
+
